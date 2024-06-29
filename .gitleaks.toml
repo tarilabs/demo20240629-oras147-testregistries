@@ -1,0 +1,7 @@
+[allowlist]
+description = "Global Allowlist"
+
+paths = [
+'''config\/distribution\/auth.htpasswd''',
+'''config\/zot\/auth.htpasswd''',
+]
