@@ -1,0 +1,5 @@
+This is the content of the file artifact.txt
+
+Using this file just to store some asset as OCI artifact
+
+If you are seeing this, this is the content of artifact.txt
