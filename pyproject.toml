@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-oras = { git = "https://github.com/oras-project/oras-py.git", rev = "caf8db5" }
+oras = "^0.1.30"
 python-dotenv = "^1.0.1"
 
 [tool.poetry.group.dev.dependencies]
